@@ -1,0 +1,14 @@
+[
+ {"title":"Spring Boot REST Services","category":"software","summary":"RESTful services with a clean MVC structure, Maven builds and a MySQL layer through Spring Data JPA, served by embedded Tomcat.","stack":["Java","Spring Boot","Spring Data JPA","MySQL","Maven"],"link":"","image":"/assets/img/invoice-dashboard.webp","alt":"Invoice dashboard showing paid and overdue invoices",
+ "repo":"https://github.com/YOUR_USERNAME/invoice-generator","demo":"","video":"https://youtu.be/YOUR_VIDEO_ID"},
+ {"title":"Multi-Tenant Invoice Generator","category":"software","summary":"Invoice engine with HTML-to-PDF output, per-client branding, and scheduled email and SMS alerts for due and overdue invoices.","stack":["PHP","MySQL","JavaScript","Cron"],"link":"","image":"/assets/img/invoice-dashboard.webp","alt":"Invoice dashboard showing paid and overdue invoices",
+ "repo":"https://github.com/YOUR_USERNAME/invoice-generator","demo":"","video":"https://youtu.be/YOUR_VIDEO_ID"},
+ {"title":"Task and Workflow Manager","category":"software","summary":"Web tool with authentication, status tracking and CRUD operations, documented so anyone can set it up.","stack":["PHP","JavaScript","MySQL"],"link":"","image":"/assets/img/invoice-dashboard.webp","alt":"Invoice dashboard showing paid and overdue invoices",
+ "repo":"https://github.com/YOUR_USERNAME/invoice-generator","demo":"","video":"https://youtu.be/YOUR_VIDEO_ID"},
+ {"title":"Event Planning Platform","category":"software","summary":"Scheduling and vendor management built around how clients and vendors actually work together.","stack":["PHP","JavaScript","MySQL"],"link":"","image":"/assets/img/invoice-dashboard.webp","alt":"Invoice dashboard showing paid and overdue invoices",
+ "repo":"https://github.com/YOUR_USERNAME/invoice-generator","demo":"","video":"https://youtu.be/YOUR_VIDEO_ID"},
+ {"title":"Java Desktop and Database App","category":"software","summary":"Desktop system showing inheritance, encapsulation and polymorphism, with validated input and a MySQL back end.","stack":["Java","NetBeans","MySQL"],"link":"","image":"/assets/img/invoice-dashboard.webp","alt":"Invoice dashboard showing paid and overdue invoices",
+ "repo":"https://github.com/YOUR_USERNAME/invoice-generator","demo":"","video":"https://youtu.be/YOUR_VIDEO_ID"},
+ {"title":"Ames House Prices Analysis","category":"data","summary":"Explored which housing features relate to sale price, cleaned missing values and inconsistent categories, and documented each step in the notebook.","stack":["Python","Jupyter","pandas"],"link":"","image":"/assets/img/invoice-dashboard.webp","alt":"Invoice dashboard showing paid and overdue invoices",
+ "repo":"https://github.com/YOUR_USERNAME/invoice-generator","demo":"","video":"https://youtu.be/YOUR_VIDEO_ID"}
+]
