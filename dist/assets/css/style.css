@@ -41,3 +41,5 @@ figcaption{color:var(--mute);font-size:.9rem;margin-top:.3rem}
 .designs .shot{aspect-ratio:auto;object-fit:contain}
 .designs .shot{aspect-ratio:auto;object-fit:contain;background:var(--card)}.reels{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));align-items:start}
 .reels iframe,.reels .instagram-media{max-width:100%!important;margin:0 auto!important}
+.designs{grid-template-columns:repeat(auto-fill,minmax(260px,1fr));align-items:start}
+.designs .shot{aspect-ratio:auto;height:auto;object-fit:contain;background:var(--card)}
