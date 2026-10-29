@@ -31,6 +31,7 @@ $designs = [
   ['file'=>'/assets/img/designs/EVENTOLOGY.png','alt'=>'Describe what is in the photo','caption'=>'EVENTOLOGY CATERERS CARD'],
   ['file'=>'/assets/img/designs/LETS TALK ABOUT THIS KLANA CUTICLE GEL.png','alt'=>'Describe what is in the photo','caption'=>'KLANA CUTICLE OIL FLYER'],
   ['file'=>'/assets/img/designs/SINGLE BRUSH.png','alt'=>'Describe what is in the photo','caption'=>'REFINED BEAUTY WORLD NOVEMBER SALE'],
+
 ];
 foreach($designs as $ds): ?>
 <figure><img class="shot" src="<?= esc($ds['file']) ?>" alt="<?= esc($ds['alt']) ?>" loading="lazy"><figcaption><?= esc($ds['caption']) ?></figcaption></figure>
