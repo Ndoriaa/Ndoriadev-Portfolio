@@ -36,3 +36,8 @@ body.creative .btn{color:#14110f}body.creative .brand{letter-spacing:.02em}
 body.creative .btn.alt{color:var(--ink)}
 .shot{width:100%;aspect-ratio:16/10;object-fit:cover;border:1px solid var(--line);border-radius:4px;margin-bottom:.8rem}
 .plink{margin-right:1rem}
+.shot{width:100%;aspect-ratio:16/10;object-fit:cover;border:1px solid var(--line);border-radius:4px}
+figcaption{color:var(--mute);font-size:.9rem;margin-top:.3rem}
+.designs .shot{aspect-ratio:auto;object-fit:contain}
+.designs .shot{aspect-ratio:auto;object-fit:contain;background:var(--card)}.reels{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));align-items:start}
+.reels iframe,.reels .instagram-media{max-width:100%!important;margin:0 auto!important}
